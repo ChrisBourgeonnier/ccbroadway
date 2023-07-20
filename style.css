@@ -151,3 +151,16 @@ footer p {
     width: 100%;
   }
 }
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #fff;
+  font-weight: 600;
+}
+
+a:visited {
+  color: #eee;
+  }
